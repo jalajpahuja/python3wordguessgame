@@ -29,7 +29,7 @@ This will ask user input for the following:
             
 ## Current settings for the game ##
 List of the parameters set for the game to run:
-1. Number of chances user will get to guess = 5
+1. Number of chances user will get to guess = 6
 2. Number of points allocated to user in each win = 10
 3. Number of top score players to show in start of the game = 10
 4. Name of the word file to change the list of the words
